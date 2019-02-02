@@ -18,5 +18,11 @@ img{
 	width: 400px;
 	height: 300px;
 	margin: 10px;
+	transition: all 2s;
+	cursor: pointer;
 }
+img:hover{
+	transform: scale(1.1);
+}
+
 
