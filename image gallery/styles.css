@@ -1,0 +1,22 @@
+body{
+background-image: linear-gradient(to right top, #362f2f, #554a47, #75675f, #948779, #b0a994, #b0a994, #b0a994, #b0a994, #948779, #75675f, #554a47, #362f2f);
+}
+.container{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+h1{
+	font-family: fantasy;
+	text-align: center;
+	font-size: 3em;
+	border-bottom: 2px solid #362F2F;
+	width: 400px;
+	color: #362F2F;
+}
+img{
+	width: 400px;
+	height: 300px;
+	margin: 10px;
+}
+
